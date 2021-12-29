@@ -1,0 +1,22 @@
+{
+    "version": "0.1.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/HandOfGod94/kafkatail/releases/download/v0.1.4/kafkatail_0.1.4_Windows_i386.tar.gz",
+            "bin": [
+                "kafkatail.exe"
+            ],
+            "hash": "28a0fdea734f1dc8ce2d1518f9d571e2f3d88a1d0b50c727fcc61e0ce4653691"
+        },
+        "64bit": {
+            "url": "https://github.com/HandOfGod94/kafkatail/releases/download/v0.1.4/kafkatail_0.1.4_Windows_x86_64.tar.gz",
+            "bin": [
+                "kafkatail.exe"
+            ],
+            "hash": "f630ac4a6c4b6733c966fdc02ed762690f6343e08ffd38b976ca5d204b2be108"
+        }
+    },
+    "homepage": "https://github.com/HandOfGod94/kafkatail",
+    "license": "Apache-2.0",
+    "description": "tail kafka logs from any topic, any wire format on local console"
+}
